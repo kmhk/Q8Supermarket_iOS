@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[Setting addFavoriteProduct:withProdID:withDate:withCompany:withOffer:]:Setting.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dbpath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate application:didReceiveRemoteNotification:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].pushInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductViewController onBtnFavorite:]:ProductViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

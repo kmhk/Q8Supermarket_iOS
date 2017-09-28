@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[AppDelegate application:didReceiveRemoteNotification:]:AppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MyAccountViewController parser:didStartElement:namespaceURI:qualifiedName:attributes:]:MyAccountViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].customer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Setting loadFavoriteListFromLocalDB:]:Setting.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.arrayFavorite">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OffersViewController parser:didEndElement:namespaceURI:qualifiedName:]:OffersViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting shareInstance].arrayCompany">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Setting getCompanyName:]:Setting.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].myFavoriteList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyListViewController parser:didEndElement:namespaceURI:qualifiedName:]:MyListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrayList">
+            </PersistentString>
+            <PersistentString
+               value = "arrayItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "databasepath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchViewController saveProductsInfo]:SearchViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MyAccountViewController twitterDidLogin]:MyAccountViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "username">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CompanyViewController tableView:numberOfRowsInSection:]:CompanyViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentofferArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductViewController onBtnPurchase:]:ProductViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchViewController connectionDidFinishLoading:]:SearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].SubCategories">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyAccountViewController onBtnTwitter:]:MyAccountViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "OAUTH_CONSUMER_KEY">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FavoriteViewController viewWillAppear:]:FavoriteViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].myFavoriteList">
+            </PersistentString>
+            <PersistentString
+               value = "companyID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchViewController sortArrayProduct:]:SearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].myFavoriteList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MoreViewController tableView:didSelectRowAtIndexPath:]:MoreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].customer.customerID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductViewController onBtnFavorite:]:ProductViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].myFavoriteList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Setting customizeTabBar]:Setting.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tabBarController">
+            </PersistentString>
+            <PersistentString
+               value = "self.ARtabBarController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BranchViewController parser:didEndElement:namespaceURI:qualifiedName:]:BranchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "branchObj">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductViewController viewDidLoad]:ProductViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].myFavoriteList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OffersViewController didPush]:OffersViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "pushStr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyAccountViewController viewDidLoad]:MyAccountViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].customer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchResultViewController viewWillAppear:]:SearchResultViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].searchIndex">
+            </PersistentString>
+            <PersistentString
+               value = "[Setting sharedInstance].searchSubCatID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewListViewController onBtnSend:]:NewListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrayCheckedFriends">
+            </PersistentString>
+            <PersistentString
+               value = "databasePath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OffersViewController alertView:clickedButtonAtIndex:]:OffersViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchViewController parser:didEndElement:namespaceURI:qualifiedName:]:SearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "productArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CompanyViewController parser:didEndElement:namespaceURI:qualifiedName:]:CompanyViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentofferArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyListViewController saveInBox]:MyListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrayList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CompanyViewController sortOffers:]:CompanyViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "expiredArray">
+            </PersistentString>
+            <PersistentString
+               value = "expiredofferArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__41-[MyAccountViewController onBtnFacebook:]_block_invoke_2:MyAccountViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MyListViewController onBtnSent:]:MyListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "databasePath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductViewController viewWillAppear:]:ProductViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].myFavoriteList">
+            </PersistentString>
+            <PersistentString
+               value = "endTimeStr">
+            </PersistentString>
+            <PersistentString
+               value = "databasePath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CompanyViewController viewDidLoad]:CompanyViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController onBtnEnglish:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].arrayMeasures">
+            </PersistentString>
+            <PersistentString
+               value = "[Setting sharedInstance].Areas">
+            </PersistentString>
+            <PersistentString
+               value = "[Setting sharedInstance].Cities">
+            </PersistentString>
+            <PersistentString
+               value = "[Setting sharedInstance].MainCategories">
+            </PersistentString>
+            <PersistentString
+               value = "[Setting sharedInstance].SubCategories">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductViewController tableView:cellForRowAtIndexPath:]:ProductViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].myPurchaseList">
+            </PersistentString>
+            <PersistentString
+               value = "[Setting sharedInstance].myFavoriteList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyListViewController btnSearch:]:MyListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Setting sharedInstance].searchSubCatID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
